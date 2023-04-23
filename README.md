@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[https://nextjs-gpt-3-website.vercel.app/](https://nextjs-gpt-3-website.vercel.app/)
 
 ## Getting Started
 
